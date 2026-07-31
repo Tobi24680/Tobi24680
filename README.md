@@ -17,6 +17,7 @@
 <a href="https://github.com/Tobi24680" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!-- LinkedIn: https://www.linkedin.com/in/m-k-shreeram-036708289 -->
 
 <br/><br/>
 
@@ -32,12 +33,11 @@
 ```python
 class Shreeram:
     def __init__(self):
-        self.role = "AI/ML Engineer | GenAI & Agentic AI Enthusiast"
+        self.role = "AI/ML Engineer | GenAI & Agentic AI Enthusiast | ML and DL"
         self.education = "BE - Artificial Intelligence & Machine Learning, Annamalai University"
-        self.cgpa = "9.2"
-        self.current_focus = ["LLMs", "RAG Pipelines", "Multi-Agent Systems", "Computer Vision"]
+        self.current_focus = ["LLMs", "RAG Pipelines", "Multi-Agent Systems", "Computer Vision","NLP"]
         self.currently_exploring = "Fine-tuning & Agentic AI Frameworks"
-        self.fun_fact = "Turned a hackathon win into real-world AI deployments 🚀"
+        
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something intelligent together!")
@@ -47,8 +47,6 @@ me.say_hi()
 ```
 
 - 🎓 Currently pursuing **BE in AI & ML** at Annamalai University (CGPA: 9.2)
-- 💼 AI Intern @ **DLK Software Solutions** — built GenAI apps, RAG pipelines & multi-agent workflows
-- 🏆 **Winner — University Hackathon 2026**, NPTEL Elite, GeeksforGeeks Campus Mantri
 - 🌱 Deep-diving into **Agentic AI**, LLM fine-tuning, and vector databases
 - 📫 Reach me at **sumathidevan2004@gmail.com**
 
@@ -56,60 +54,78 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" />
-
-**AI / ML & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-**Frameworks & Web**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-**Tools, Cloud & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,aws,mysql,mongodb" />
-<img src="https://img.shields.io/badge/FAISS-00A98F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 💼 Experience
-
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td valign="top" width="25%">
 
-**🤖 AI Intern** — DLK Software Solutions <sub>*(Chennai, Onsite • May 2026 – Jun 2026)*</sub>
-Built GenAI apps & multi-agent workflows using LLMs, prompt engineering, and RAG pipelines with vector databases.
+**💻 Languages**
 
-**🌐 Web Development Intern** — CodeBind Technologies <sub>*(Chennai • May 2025 – Jun 2025)*</sub>
-Built and deployed a full-stack Cab Booking Website (HTML, CSS, Bootstrap, PHP, MySQL).
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" /><br/>
 
-**📊 Machine Learning Intern** — TechnoHacks EduTech <sub>*(Virtual • Feb 2025 – Mar 2025)*</sub>
-Built classification/regression models; performed EDA, feature engineering, and visualization.
+</td>
+<td valign="top" width="25%">
 
-**🐍 Python Developer Intern** — CodSoft <sub>*(Virtual • Jan 2025 – Feb 2025)*</sub>
-Built real-world Python applications using OOP, file handling, and exception handling.
+**🧠 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" /><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-00A98F?style=flat-square&logoColor=white"/>
+
+</td>
+<td valign="top" width="25%">
+
+**🌐 Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,bootstrap" /><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+<td valign="top" width="25%">
+
+**☁️ Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws" /><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+
+</td>
+<td valign="top" width="25%">
+
+**📊 Data**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy" /><br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white"/>
+
+</td>
+<td valign="top" width="25%">
+
+**⚡ No-Code AI**
+
+<img src="https://img.shields.io/badge/Flowise-FF6B6B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Langflow-6366F1?style=flat-square&logoColor=white"/>
+
+</td>
+<td valign="top" width="25%">
+
+**🖥️ Editor**
+
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -160,8 +176,6 @@ Predicts Diabetes, Heart Disease & Liver Disease from medical parameters via an 
 </tr>
 </table>
 
-> 🔗 *Add your live project/demo links — check each repo on [github.com/Tobi24680](https://github.com/Tobi24680)*
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
@@ -191,29 +205,6 @@ https://github.com/Platane/snk#readme
 Once set up, replace this comment with:
 <img src="https://raw.githubusercontent.com/Tobi24680/Tobi24680/output/github-contribution-grid-snake-dark.svg" />
 -->
-
-## 🏅 Certifications
-
-<table>
-<tr><td>
-
-- 🎓 Agentic AI Certified Foundations Associate — **Oracle**
-- 🎓 Generative AI For Everyone — **DeepLearning.AI (Coursera)**
-- 🎓 Introduction to Frontend Development — **Meta**
-- 🎓 AWS Cloud Essentials — **Edureka (Coursera)**
-- 🎓 Data Science & Analytics — **HP Life**
-- 🎓 Django Essential Training — **LinkedIn**
-- 🎓 Certificate Course in Python — **CSC**
-- 🎓 Diploma in Computer Applications — **Sun Computer System**
-
-</td></tr>
-</table>
-
-## 🏆 Honors & Awards
-
-🥇 **Winner — University Hackathon 2026**, Annamalai University
-⭐ **NPTEL Elite** — Two NPTEL certifications with Elite grade
-🎖️ **Campus Mantri** — Selected by GeeksforGeeks for driving technical learning at Annamalai University
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
